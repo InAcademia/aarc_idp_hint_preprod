@@ -1,0 +1,10 @@
+{
+    "https://idp.test.inacademia.org/saml2/idp/metadata.php": {
+        "en": "IDP1 - SimpleSAMLphp ZZ-EN",
+        "zz": "IDP1 - SimpleSAMLphp ZZ-ZZ"
+    },
+    "https://idp2.test.inacademia.org/idp/shibboleth": {
+        "en": "IDP2 - Shibboleth ZZ-EN",
+        "zz": "IDP2 - Shibboleth ZZ-ZZ"
+    }
+}

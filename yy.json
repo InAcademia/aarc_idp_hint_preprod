@@ -1,0 +1,10 @@
+{
+    "https://idp.test.inacademia.org/saml2/idp/metadata.php": {
+        "en": "IDP1 - SimpleSAMLphp YY-EN",
+        "yy": "IDP1 - SimpleSAMLphp YY-YY"
+    },
+    "https://idp2.test.inacademia.org/idp/shibboleth": {
+        "en": "IDP2 - Shibboleth YY-EN",
+        "yy": "IDP2 - Shibboleth YY-YY"
+    }
+}
